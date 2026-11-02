@@ -1,11 +1,11 @@
 {
     "id": "maina888/instagram-feed",
     "name": "Instagram Feed",
-    "namespace": "MainaSuperintelligence\\InstagramFeed\\",
-    "provider": "MainaSuperintelligence\\InstagramFeed\\Providers\\InstagramFeedServiceProvider",
-    "author": "Maina 888",
-    "url": "https://github.com/Themaina/maina-instagram-feed",
-    "version": "1.1.0",
+    "namespace": "Maina888\\InstagramFeed\\",
+    "provider": "Maina888\\InstagramFeed\\Providers\\InstagramFeedServiceProvider",
+    "author": "maina888",
+    "url": "https://mainax.vercel.app",
+    "version": "1.1.1",
     "description": "Instagram post and reel feed for your storefront: a swipeable panel with a Shop Now button per post, a follow link, page targeting and a privacy mode that loads nothing from Instagram until tapped.",
     "minimum_core_version": "7.3.0"
 }

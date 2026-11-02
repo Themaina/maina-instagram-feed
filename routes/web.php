@@ -1,8 +1,8 @@
 <?php
 
 use Botble\Base\Facades\AdminHelper;
-use MainaSuperintelligence\InstagramFeed\Http\Controllers\Settings\InstagramFeedSettingController;
-use MainaSuperintelligence\InstagramFeed\Http\Controllers\InstagramPostController;
+use Maina888\InstagramFeed\Http\Controllers\Settings\InstagramFeedSettingController;
+use Maina888\InstagramFeed\Http\Controllers\InstagramPostController;
 use Illuminate\Support\Facades\Route;
 
 AdminHelper::registerRoutes(function (): void {

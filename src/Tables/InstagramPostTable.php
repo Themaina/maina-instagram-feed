@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Tables;
+namespace Maina888\InstagramFeed\Tables;
 
 use Botble\Table\Abstracts\TableAbstract;
 use Botble\Table\Actions\DeleteAction;
@@ -16,7 +16,7 @@ use Botble\Table\Columns\ImageColumn;
 use Botble\Table\Columns\NameColumn;
 use Botble\Table\Columns\StatusColumn;
 use Botble\Table\HeaderActions\CreateHeaderAction;
-use MainaSuperintelligence\InstagramFeed\Models\InstagramPost;
+use Maina888\InstagramFeed\Models\InstagramPost;
 use Illuminate\Database\Eloquent\Builder;
 
 class InstagramPostTable extends TableAbstract

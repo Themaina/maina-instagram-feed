@@ -1,8 +1,13 @@
 # Changelog
 
+## 1.1.1
+- Made with passion by maina888: author and links now point to mainax.vercel.app.
+- PHP namespace is now `Maina888\InstagramFeed`. Clear caches after updating (`php artisan optimize:clear`).
+- New "Support this project" section and GitHub Sponsor link.
+
 ## 1.1.0
-- First public release on the Botble Marketplace, free under the MIT License, by Maina 888 (Maina Superintelligence Ltd).
-- Vendor namespace is now `MainaSuperintelligence\InstagramFeed` and the plugin id is `maina888/instagram-feed`.
+- First public release on the Botble Marketplace, free under the MIT License, by maina888 (maina888).
+- Vendor namespace is now `Maina888\InstagramFeed` and the plugin id is `maina888/instagram-feed`.
 - New: privacy mode. A cover image with a play button stands in for each post, and nothing loads from Instagram until the visitor taps it.
 - New: cover image per post, shown in privacy mode and in the admin list.
 - New: "Distance from the bottom on phones" setting, to clear bottom navigation bars such as Shofy's.

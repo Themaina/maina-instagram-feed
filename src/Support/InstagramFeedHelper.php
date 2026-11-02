@@ -1,9 +1,9 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Support;
+namespace Maina888\InstagramFeed\Support;
 
 use Botble\Setting\Facades\Setting;
-use MainaSuperintelligence\InstagramFeed\Models\InstagramPost;
+use Maina888\InstagramFeed\Models\InstagramPost;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Support\Facades\Route;
 use Throwable;

@@ -1,11 +1,11 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Http\Controllers\Settings;
+namespace Maina888\InstagramFeed\Http\Controllers\Settings;
 
 use Botble\Setting\Http\Controllers\SettingController;
-use MainaSuperintelligence\InstagramFeed\Forms\Settings\InstagramFeedSettingForm;
-use MainaSuperintelligence\InstagramFeed\Http\Requests\Settings\InstagramFeedSettingRequest;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramFeedHelper;
+use Maina888\InstagramFeed\Forms\Settings\InstagramFeedSettingForm;
+use Maina888\InstagramFeed\Http\Requests\Settings\InstagramFeedSettingRequest;
+use Maina888\InstagramFeed\Support\InstagramFeedHelper;
 use Illuminate\Support\Arr;
 
 class InstagramFeedSettingController extends SettingController

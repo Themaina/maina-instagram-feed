@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Http\Requests\Settings;
+namespace Maina888\InstagramFeed\Http\Requests\Settings;
 
 use Botble\Base\Rules\OnOffRule;
 use Botble\Support\Http\Requests\Request;
 use Illuminate\Validation\Validator;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramFeedHelper;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramUrl;
+use Maina888\InstagramFeed\Support\InstagramFeedHelper;
+use Maina888\InstagramFeed\Support\InstagramUrl;
 use Illuminate\Validation\Rule;
 
 class InstagramFeedSettingRequest extends Request

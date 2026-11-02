@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Support;
+namespace Maina888\InstagramFeed\Support;
 
 /**
  * Parses Instagram links without any framework dependency, so it can be unit tested on its own.

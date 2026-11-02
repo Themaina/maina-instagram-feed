@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed;
+namespace Maina888\InstagramFeed;
 
 use Botble\PluginManagement\Abstracts\PluginOperationAbstract;
 use Botble\Setting\Facades\Setting;

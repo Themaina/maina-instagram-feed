@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Forms\Settings;
+namespace Maina888\InstagramFeed\Forms\Settings;
 
 use Botble\Base\Forms\FieldOptions\CheckboxFieldOption;
 use Botble\Base\Forms\FieldOptions\NumberFieldOption;
@@ -13,8 +13,8 @@ use Botble\Base\Forms\Fields\OnOffCheckboxField;
 use Botble\Base\Forms\Fields\SelectField;
 use Botble\Base\Forms\Fields\TextField;
 use Botble\Setting\Forms\SettingForm;
-use MainaSuperintelligence\InstagramFeed\Http\Requests\Settings\InstagramFeedSettingRequest;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramFeedHelper;
+use Maina888\InstagramFeed\Http\Requests\Settings\InstagramFeedSettingRequest;
+use Maina888\InstagramFeed\Support\InstagramFeedHelper;
 
 class InstagramFeedSettingForm extends SettingForm
 {

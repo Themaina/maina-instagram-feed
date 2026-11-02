@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Providers;
+namespace Maina888\InstagramFeed\Providers;
 
 use Botble\Base\Supports\ServiceProvider;
 use Botble\Ecommerce\Models\Product;
 use Botble\Theme\Events\RenderingSingleEvent;
 use Botble\Theme\Facades\Theme;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramFeedHelper;
+use Maina888\InstagramFeed\Support\InstagramFeedHelper;
 use Illuminate\Routing\Events\RouteMatched;
 use Illuminate\Support\Facades\Route;
 

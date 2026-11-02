@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Http\Requests;
+namespace Maina888\InstagramFeed\Http\Requests;
 
 use Botble\Base\Enums\BaseStatusEnum;
 use Botble\Support\Http\Requests\Request;
 use Illuminate\Validation\Rule;
 use Illuminate\Validation\Validator;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramUrl;
+use Maina888\InstagramFeed\Support\InstagramUrl;
 
 class InstagramPostRequest extends Request
 {

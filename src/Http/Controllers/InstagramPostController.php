@@ -1,14 +1,14 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Http\Controllers;
+namespace Maina888\InstagramFeed\Http\Controllers;
 
 use Botble\Base\Http\Actions\DeleteResourceAction;
 use Botble\Base\Http\Controllers\BaseController;
 use Botble\Base\Supports\Breadcrumb;
-use MainaSuperintelligence\InstagramFeed\Forms\InstagramPostForm;
-use MainaSuperintelligence\InstagramFeed\Http\Requests\InstagramPostRequest;
-use MainaSuperintelligence\InstagramFeed\Models\InstagramPost;
-use MainaSuperintelligence\InstagramFeed\Tables\InstagramPostTable;
+use Maina888\InstagramFeed\Forms\InstagramPostForm;
+use Maina888\InstagramFeed\Http\Requests\InstagramPostRequest;
+use Maina888\InstagramFeed\Models\InstagramPost;
+use Maina888\InstagramFeed\Tables\InstagramPostTable;
 
 class InstagramPostController extends BaseController
 {

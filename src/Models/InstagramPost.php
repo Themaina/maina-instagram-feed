@@ -1,11 +1,11 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Models;
+namespace Maina888\InstagramFeed\Models;
 
 use Botble\Base\Casts\SafeContent;
 use Botble\Base\Enums\BaseStatusEnum;
 use Botble\Base\Models\BaseModel;
-use MainaSuperintelligence\InstagramFeed\Support\InstagramUrl;
+use Maina888\InstagramFeed\Support\InstagramUrl;
 
 class InstagramPost extends BaseModel
 {

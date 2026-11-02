@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Providers;
+namespace Maina888\InstagramFeed\Providers;
 
 use Botble\Base\Facades\DashboardMenu;
 use Botble\Base\Facades\PanelSectionManager;

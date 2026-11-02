@@ -1,8 +1,8 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Tests;
+namespace Maina888\InstagramFeed\Tests;
 
-use MainaSuperintelligence\InstagramFeed\Support\InstagramUrl;
+use Maina888\InstagramFeed\Support\InstagramUrl;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 

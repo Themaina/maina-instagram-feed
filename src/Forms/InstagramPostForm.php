@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\InstagramFeed\Forms;
+namespace Maina888\InstagramFeed\Forms;
 
 use Botble\Base\Forms\FieldOptions\MediaImageFieldOption;
 use Botble\Base\Forms\FieldOptions\NumberFieldOption;
@@ -11,8 +11,8 @@ use Botble\Base\Forms\Fields\NumberField;
 use Botble\Base\Forms\Fields\SelectField;
 use Botble\Base\Forms\Fields\TextField;
 use Botble\Base\Forms\FormAbstract;
-use MainaSuperintelligence\InstagramFeed\Http\Requests\InstagramPostRequest;
-use MainaSuperintelligence\InstagramFeed\Models\InstagramPost;
+use Maina888\InstagramFeed\Http\Requests\InstagramPostRequest;
+use Maina888\InstagramFeed\Models\InstagramPost;
 
 class InstagramPostForm extends FormAbstract
 {
